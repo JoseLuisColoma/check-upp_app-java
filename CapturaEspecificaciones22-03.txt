@@ -1,0 +1,52 @@
+Ciclo de CAE
+
+Cliente: Elena-Begoña
+
+Hacer una aplicación de escritorio, no web. La información estará en una BBDD en un servidor.
+
+Aplicación 
+No tiene muy claro que se puede
+
+La aplicación va dirigida a las familias personas que cuidan a los enfermos para que valoren a los enfermos
+Prevención.
+
+Ulceras por presionPP
+
+Calculadora 
+
+HISTORIA DE USUARIO
+Usuario: Familiares, personas que cuidan a familiares, o mismo enfermo si no está grave.
+Quiero que la aplicaciónn pueda valorar el riesgo que tiene el paciente de sufrir ulceras y en funcion de ese riesgo, 
+queremos que se muestren unos consejos de prevención, productos que se puedan utilizar o enlacen de interés.
+con el fin de mejorar la calidad del paciente, minimizar costes y disminución de carga extra de dinero y de trabajo.
+(Prevenir antes que curar)
+
+Interfaz sencilla, intuitiva, colores.
+
+A nivel de diseño:
+5 pestañas:
+1.-Intro.
+2.-Calculadora. Valoracion de riesgos.
+3- Prevención de riesgos. Consejos Específicos.
+4.-Consejos específicos
+5.-Contactos.
+Baes legales. Política legles. Aceptar las bases? Alerta?
+
+
+Contenido nos lo pasan
+Muchas imágenes
+
+En la calculadora:
+- la escala de Braden fila por fila por cada ítem
+cuando aparezca el resultado, aparezca una tabla con elaces distintos.
+
+Enlaces interesados (IMPORTANTE).
+smart upp
+semergencantabria.org
+
+mail contacto: elenairons@gmail.com
+
+
+próxima reunión 29/03 10:03
+
+tiempos: finales mayo-junio.
